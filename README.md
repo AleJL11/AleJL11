@@ -1,9 +1,7 @@
-<div align="center">
-  <em>    
+<div align="center">   
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=2CCDF7&center=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BD+Hi+there%2C+I'm+Alejandro+L%C3%B3pez" alt="Typing SVG" />
     </a>
-  </em>
 </div>
 
 - 👋 Hi, I’m @AleJL11
