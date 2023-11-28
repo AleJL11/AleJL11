@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BD+Hi+there%2C+I'm+Alejandro+L%C3%B3pez" alt="Typing SVG" /></a>
+
 - 👋 Hi, I’m @AleJL11
 - 👀 I’m interested in la  programación orientada a objetos, creación de paginas y sistemas web.
 - 🌱 I’m currently learning  JavaScript para seguir con React y aprender Angular.
